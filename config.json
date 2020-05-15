@@ -1,4 +1,3 @@
 {
-  "restaurantIsOpen": true
-  "restaurantIsOpen": false
+  "restaurant_is_open": true,
 } 
